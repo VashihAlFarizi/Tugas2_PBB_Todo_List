@@ -1,4 +1,5 @@
 <img width="488" height="719" alt="image" src="https://github.com/user-attachments/assets/5795d421-5ed2-436f-a6a6-f2a2b20d3922" />
+<img width="487" height="718" alt="image" src="https://github.com/user-attachments/assets/fedb1fcc-0ac7-469b-9335-f2948b3586c2" />
 
 # flutter_tugas2_todo_list
 
